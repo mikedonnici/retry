@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/regrowag/ses/pkg/retry"
+	"github.com/mikedonnici/retry"
 )
 
 func TestAttemptsCount(t *testing.T) {
